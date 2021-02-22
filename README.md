@@ -17,7 +17,7 @@ In order to address the first problem, we needed to enable features that attract
 
 Secondly, the lack of liquidity is addressed by enabling,
 
-1. High-frequency trading using feeless transactions. 
+1. High-frequency trading using feeless transactions.
 2. APIs that enable trading/AMM bots to observe market changes and submit trades.
 3. Advanced trading features like stop limit, market limit, Stop loss, Fill/Kill, Post only, TWAP, etc.
 
@@ -29,7 +29,7 @@ The value we provide to the Substrate community is,
 2. Traders can contribute their own custom trading algorithms by making use of market data provided by our full nodes.
 3. They get a decentralized trading platform to trade Polkadot & Ethereum tokens.
 4. This will be one of the first Decentralized exchanges to have High-Frequency Trading bot support using APIs directly from full nodes.
-![Web3 Grants](https://github.com/Polkadex-Substrate/Documentation/blob/master/images/web3%20foundation_grants_badge_black.svg)
+   ![Web3 Grants](https://github.com/Polkadex-Substrate/Documentation/blob/master/images/web3%20foundation_grants_badge_black.svg)
 ## Run the node :dancer:
 You need to have docker installed to run Polkadex. Use the command given below.
 ```

@@ -1,2 +1,2 @@
-../target/release/node-polkadex build-spec --disable-default-bootnode --chain local > customSpec.json
-../target/release/node-polkadex build-spec --chain=customSpec.json --raw --disable-default-bootnode > customSpecRaw.json
+/polkadex-aura-node/target/release/node-polkadex build-spec  --chain local > customSpec.json
+/polkadex-aura-node/target/release/node-polkadex build-spec --chain=customSpec.json --raw > customSpecRaw.json
